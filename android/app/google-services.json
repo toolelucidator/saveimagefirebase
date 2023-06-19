@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "790706569206",
+    "firebase_url": "https://imagestorage-2af54-default-rtdb.firebaseio.com",
+    "project_id": "imagestorage-2af54",
+    "storage_bucket": "imagestorage-2af54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790706569206:android:fff081af81b4f084f111d7",
+        "android_client_info": {
+          "package_name": "com.example.saveimagefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790706569206-m4l618471qv8ckftaaqegcia9hss7o6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYkYC0kegHcDdMrANy1MDa7beNdMhYuOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790706569206-m4l618471qv8ckftaaqegcia9hss7o6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
